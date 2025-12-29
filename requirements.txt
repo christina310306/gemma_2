@@ -1,0 +1,9 @@
+pytesseract
+opencv-python
+numpy
+pillow
+PyMuPDF
+faiss-cpu
+sentence-transformers
+requests
+python-dotenv
